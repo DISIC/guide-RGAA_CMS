@@ -28,8 +28,6 @@ Pour établir la liste complète des contenus nécessaires, vous devez simplemen
 
 À noter que cette méthodologie est un document d'accompagnement visant à vous aider dans l'utilisation du référentiel CMS. Il ne dispense pas d'une lecture approfondie du référentiel technique.
 
-Cette ressource est également consultable en ligne sans avoir à télécharger le dépôt.
-
 ## Thématiques
 
  - [1 - Interface](criteres.md#t-1)
